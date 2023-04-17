@@ -65,16 +65,16 @@ import { Cascader, Checkbox, Radio, NumberInput, Input } from 'veui'
 
 const options = [
   {
-    label: '浙江',
-    value: '浙江',
+    label: '2023年',
+    value: '2023年',
     options: [
       {
-        label: '威海',
-        value: '威海'
+        label: 'Q1',
+        value: 'Q1'
       },
       {
-        label: '滨州',
-        value: '滨州'
+        label: 'Q2',
+        value: 'Q2'
       },
       {
         label: '临沂',
